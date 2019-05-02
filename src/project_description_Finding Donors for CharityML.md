@@ -18,7 +18,7 @@ Things you will learn by completing this project:
 
 This project uses the following software and Python libraries:
 
-- [Python 2.7](https://www.python.org/download/releases/2.7/)
+- [Python 3](https://www.python.org/download/releases/3.0/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
@@ -26,7 +26,7 @@ This project uses the following software and Python libraries:
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3 installer and also for the Python 3.x installer.
 
 ## Starting the Project
 
