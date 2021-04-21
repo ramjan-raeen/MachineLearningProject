@@ -24,7 +24,7 @@ This project uses the following software and Python libraries:
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
 
-I've using [Colaboratory ot colab](https://colab.research.google.com/notebooks/intro.ipynb). It's very easy to use and all libraries are already installed on it.
+I'm using [Colaboratory ot colab](https://colab.research.google.com/notebooks/intro.ipynb). It's very easy to use and all libraries are already installed on it.
 It'll run online and it's requires internet connection.
 
 If you don't have internet connection then you should install Python or Jupyter notebook and follow the below instruction.
@@ -46,4 +46,4 @@ After clone this project(upload to your google grive), navigate to `01_finding_d
 
 - For offline
 
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook 01_finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
