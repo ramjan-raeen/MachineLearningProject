@@ -42,7 +42,7 @@ This project contains three files:
 - `census.csv`: The project dataset. You'll load this data in the notebook.
 - `visuals.py`: A Python file containing visualization code that is run behind-the-scenes. Do not modify.
 
-After clone this project(upload to your google grive), navigate to `01_finding_doners.ipynb` open with `colab` and edit for optization.
+After clone this project(upload to your google grive), navigate to `01_finding_doners.ipynb` open with `colab` and edit for optimization or improve score.
 
 - For offline
 
