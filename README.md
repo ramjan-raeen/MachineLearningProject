@@ -64,7 +64,9 @@ After clone this project(upload to your google grive), navigate to `01_finding_d
 
 - For offline
 
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook 01_finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook 01_finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project.
+
+...
 
 
 
